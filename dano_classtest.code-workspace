@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "classtest",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Facemesh_Test"
+	}
+}
